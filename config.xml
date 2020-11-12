@@ -1,0 +1,33 @@
+{
+    "config": [{
+        "splash_image": "https://splash.realanime.xyz/Makomo_Anime.png",
+        "host": "https://web.i59400f.xyz",
+        "exp_host": "https://web.i59400f.xyz",
+        "main_host": "https://raw.githubusercontent.com/ntah/animlovers/master",
+        "info": "0",
+        "info_message": "Beta test rilis",
+        "under_maintenance": "0",
+        "under_maintenance_info": "",
+        "disable_report": "1",
+        "disable_request": "1",
+        "disable_chat": "1",
+        "disable_download": "0",
+        "disable_streaming": "0",
+        "disable_hd": "0",
+        "beta_hd": "0",
+        "beta_hd_info": "HD masih dalam tahap Perbaikan :)",
+        "disable_exp_host": "1",
+        "genre": "Genre,Complete,Ongoing,Movie,Action,Adventure,Comedy,Demons,Drama,Ecchi,Fantasy,Game,Harem,Historical,Horror,Josei,Kids,Live Action,Magic,Martial Arts,Mecha,Military,Music,Mystery,Parody,Police,Psychological,Romance,Samurai,School,Sci-Fi,Seinen,Shoujo,Shounen,Slice of Life,Space,Sports,Super Power,Supernatural,Thriller,Tokusatsu,Vampire",
+        "sensor": "anjing,anjeng,babi,monyet,kunyuk,bajingan,bangsat,kampret,kontol,memek,ngentot,pepek,jembut,perek,pecun,bencong,banci,jablay,cibay,cibai,kimak,pantat,vagina,penis",
+        "adsvideo": "200",
+        "adsvideo_start": "1",
+        "adsvideo_end": "0",
+        "MainActivity": "inmobi",
+        "DetailActivity": "unity",
+        "LainnyaActivity": "unity",
+        "EpisodeActivity": "unity",
+        "VideoPlayActivity": "unity",
+        "OtherActivity": "unity"
+    }]
+}
+/*ads startapp, appnext, inmobi, unity */
